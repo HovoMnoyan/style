@@ -1,6 +1,6 @@
 .conteiner{
    display: flex;
-   background-color: aqua;
+   background-color: green;
    min-width: 1024px;
    min-height: 850px;
    overflow: auto;
